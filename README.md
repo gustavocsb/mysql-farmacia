@@ -15,4 +15,6 @@ Possui:
 - FUNCTIONS
 - TRIGGERS
 
+
+### MODELO LÓGICO:
 <img align="center" alt="modelo-logico" src="https://github.com/distnrb/mysql-farmacia/blob/main/logico-farmacia.svg">
